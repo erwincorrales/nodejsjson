@@ -1,0 +1,17 @@
+{
+  "name": "proyfinalnode",
+  "version": "1.0.0",
+  "description": "entrega de un app en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/server.js"
+  },
+  "author": "erwin corrales",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
